@@ -1,5 +1,5 @@
 title: 'Samuel.pro'
-description: ""
+description: "Just Another... wait ¿Jekyll? site"
 baseurl: ""
 url: "https://metac0m.github.io"
 
@@ -16,3 +16,7 @@ footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 # Build settings
 markdown: kramdown
 
+theme: jekyll-theme-console
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
