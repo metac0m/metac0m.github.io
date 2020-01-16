@@ -21,12 +21,11 @@
 header_pages:
  - index.md
  - about.md
-title: Samuel.Pro 
-email: hola@samuel.pro
-description: >- # this means to ignore newlines until "baseurl:"
-  Just Another... wait ¿Jekyll? site
+title: 'Samuel.Pro' 
+email: 'hola@samuel.pro'
+description: 'Just Another... wait ¿Jekyll? site'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://metac0m.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: logik
 github_username:  metac0m
 
