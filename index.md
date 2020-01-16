@@ -1,7 +1,7 @@
 ---
-title: Samuel.Pro
+title: /
 layout: home
-permalink: https://twitter.com/logik
+permalink: /
 ---
 
 # Lorem ipsum
