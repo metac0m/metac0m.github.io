@@ -11,7 +11,7 @@ header_pages:
 
 style: dark
 
-footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
+footer: 'Sígueme en <a href="https://twitter.com/logik">twitter</a> // hola@samuel.pro'
 
 # Build settings
 markdown: kramdown
