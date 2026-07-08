@@ -16,7 +16,8 @@ footer: 'Sígueme en <a href="https://twitter.com/logik">twitter</a> // hola@sam
 # Build settings
 markdown: kramdown
 
-theme: jekyll-theme-console
+#theme: jekyll-theme-console
+remote_theme: hydecorp/hydejack@v9
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
